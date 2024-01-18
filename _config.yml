@@ -1,5 +1,5 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+title: jqiris
+description: Just a personal technical notes
 
 theme: null
 
@@ -28,4 +28,4 @@ exclude:
   - package.json
   - package-lock.json
   - webpack.config.js
-  - jekyll-rtd-theme.gemspec
+  - jqiris.gemspec

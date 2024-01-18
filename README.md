@@ -1,7 +1,7 @@
-# jekyll-rtd-theme
+# jqiris
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
+![CI](https://jqiris.github.io/workflows/CI/badge.svg?branch=develop)
+![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jqiris/badge)
 
 Just another documentation theme compatible with GitHub Pages
 
