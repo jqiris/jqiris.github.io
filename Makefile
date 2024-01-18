@@ -48,7 +48,7 @@ theme: dist
 	@gem install *.gem && rm -f *.gem
 
 build: dist
-	@${DEBUG} bundle exec jekyll build --safe --profile
+	@bundle exec jekyll build --safe --profile
 
 server: dist
-	@${DEBUG} bundle exec jekyll server --safe --livereload
+	@bundle exec jekyll server --safe --livereload
